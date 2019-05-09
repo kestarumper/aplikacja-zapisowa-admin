@@ -1,0 +1,13 @@
+frontend-*/node_modules
+__pycache__
+*.pyc
+frontend/yarn.lock
+.idea
+.vscode
+.DS_Store
+backend/aplikacja_zapisowa/enrolmentpanel/static/images/*
+deploy-conf.json
+prod-compose.yml
+frontend-admin/build
+frontend-user/build
+build
